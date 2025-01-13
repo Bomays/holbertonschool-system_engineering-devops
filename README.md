@@ -16,7 +16,7 @@
 A user wants to access the website www.foobar.com. Here's how the one server web infrastructure works:
 
 <p align="left">
-<img src="https://github.com/Bomays/holbertonschool-system_engineering-devops/blob/993362b3d0484759f3625f2de43ece3a6e0b1203/Images%20tasks/Simple%20web%20Stack.png" alt="Simple web structure" width="800"/>
+<img src="https://github.com/Bomays/holbertonschool-system_engineering-devops/blob/993362b3d0484759f3625f2de43ece3a6e0b1203/Images%20tasks/Simple%20web%20Stack.png" alt="Simple web structure" width="500"/>
 </p>
 
 $~$
