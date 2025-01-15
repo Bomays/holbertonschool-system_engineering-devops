@@ -16,7 +16,7 @@
 A user wants to access the website www.foobar.com. Here's how the one server web infrastructure works:
 
 <p align="left">
-<img src="https://github.com/Bomays/holbertonschool-system_engineering-devops/blob/d8a109c52ef7ed7bc54f20eb12fc07f658da15c6/web_infrastructure_design/Images%20tasks/Simple%20web%20Stack.png" alt="Simple web stack" width="300"/>
+<img src="https://github.com/Bomays/holbertonschool-system_engineering-devops/blob/d8a109c52ef7ed7bc54f20eb12fc07f658da15c6/web_infrastructure_design/Images%20tasks/Simple%20web%20Stack.png" alt="Simple web stack" width="500"/>
 </p>
 
 $~$
@@ -63,7 +63,7 @@ $~$
 $~$
 
 <p align="left">
-<img src="https://github.com/Bomays/holbertonschool-system_engineering-devops/blob/d8a109c52ef7ed7bc54f20eb12fc07f658da15c6/web_infrastructure_design/Images%20tasks/Web%20structure.png" alt="Web structure" width="300"/>
+<img src="https://github.com/Bomays/holbertonschool-system_engineering-devops/blob/d8a109c52ef7ed7bc54f20eb12fc07f658da15c6/web_infrastructure_design/Images%20tasks/Web%20structure.png" alt="Web structure" width="500"/>
 </p>
 
 $~$
@@ -128,7 +128,7 @@ $~$
 $~$
 
 <p align="left">
-<img src="https://github.com/Bomays/holbertonschool-system_engineering-devops/blob/d8a109c52ef7ed7bc54f20eb12fc07f658da15c6/web_infrastructure_design/Images%20tasks/Secured%20and%20monitored%20web%20infrastructure.png" alt="Secured and monitored web infrastructure" width="300"/>
+<img src="https://github.com/Bomays/holbertonschool-system_engineering-devops/blob/d8a109c52ef7ed7bc54f20eb12fc07f658da15c6/web_infrastructure_design/Images%20tasks/Secured%20and%20monitored%20web%20infrastructure.png" alt="Secured and monitored web infrastructure" width="500"/>
 </p>
 
 $~$
@@ -183,7 +183,7 @@ $~$
 $~$
 
 <p align="left">
-<img src="https://github.com/Bomays/holbertonschool-system_engineering-devops/blob/d8a109c52ef7ed7bc54f20eb12fc07f658da15c6/web_infrastructure_design/Images%20tasks/Scale%20up.png" alt="Scale Up" width="300"/>
+<img src="https://github.com/Bomays/holbertonschool-system_engineering-devops/blob/d8a109c52ef7ed7bc54f20eb12fc07f658da15c6/web_infrastructure_design/Images%20tasks/Scale%20up.png" alt="Scale Up" width="500"/>
 </p>
 
 $~$
