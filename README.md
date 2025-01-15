@@ -1,17 +1,23 @@
 # Holberton School - System Engineering & DevOps
-Overview of holbertonschool-system_engineering-devops present repo
+
+Overview of holbertonschool-system_engineering-devops repo:
 
 This repository showcases projects and learning objectives related to system engineering and DevOps, emphasizing the architecture and management of modern web infrastructures. From simple single-server designs to complex, secure, and scalable infrastructures, the content provides a deep dive into key concepts and techniques.
 
-## Learning Objectives
-
-    Design and diagram a web stack for different project needs.
-    Explain the role of each infrastructure component.
-    Understand and mitigate Single Points of Failure (SPOF).
-    Familiarize yourself with acronyms like LAMP, SPOF, and QPS.
+The most important concepts so our experience typing www.google.com is well lived !
+> See my article on Medium > [Holberton School System Engineering & DevOps](https://github.com/Bomays/holbertonschool-system_engineering-devops/tree/main)
 
 
-## Task 0: Simple Web Stack
+# Web Infrastructure Design
+
+You can see directly the web infrastucture design readme here >
+[Project detailed readme](web_infrastructure_design/README.md)
+
+Or only Flowcharts here > 
+[Flowcharts](web_infrastructure_design/Images tasks)
+
+
+## Simple Web Stack
 
     A basic single-server infrastructure with:
         Nginx Web Server for static content and reverse proxying.
@@ -23,7 +29,7 @@ This repository showcases projects and learning objectives related to system eng
         Downtime during maintenance.
         Limited scalability.
 
-## Task 1: Distributed Web Infrastructure
+## Distributed Web Infrastructure
 
     Adds multiple application servers and a load balancer (HAProxy) for fault tolerance and scalability.
     Implements a Primary-Replica MySQL setup for improved database performance.
@@ -33,7 +39,7 @@ This repository showcases projects and learning objectives related to system eng
         Security vulnerabilities (no firewall or HTTPS).
         Lack of monitoring.
 
-## Task 2: Secured and Monitored Infrastructure
+## Secured and Monitored Infrastructure
 
     Introduces firewalls, SSL certificates, and monitoring clients:
         Firewalls filter unauthorized traffic.
@@ -45,7 +51,7 @@ This repository showcases projects and learning objectives related to system eng
         Single write-capable MySQL server.
         Resource contention across shared servers.
 
-## Task 3: Scale-Up
+## Scale-Up
 
     Deploys redundant load balancers and additional web servers.
     Separates components (web servers, application servers, databases) for better resource management and security.
@@ -54,5 +60,3 @@ This repository showcases projects and learning objectives related to system eng
         Improved scalability and fault tolerance.
         Monitoring cluster to ensure system visibility.
 
-You ca see directly the web infrastucture design readme here >
-[Project detailed readme](web_infrastructure_design/README.md)
