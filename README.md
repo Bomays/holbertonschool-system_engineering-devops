@@ -4,7 +4,7 @@ Overview of holbertonschool-system_engineering-devops repo:
 
 This repository showcases projects and learning objectives related to system engineering and DevOps, emphasizing the architecture and management of modern web infrastructures. From simple single-server designs to complex, secure, and scalable infrastructures, the content provides a deep dive into key concepts and techniques.
 
-The most important concepts so our experience typing www.google.com is well lived !
+The most important concepts so our experience typing www.google.com is seamless !
 > See my article on Medium > [Holberton School System Engineering & DevOps](https://github.com/Bomays/holbertonschool-system_engineering-devops/tree/main)
 
 
