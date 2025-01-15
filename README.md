@@ -4,8 +4,8 @@ Overview of holbertonschool-system_engineering-devops repo:
 
 This repository showcases projects and learning objectives related to system engineering and DevOps, emphasizing the architecture and management of modern web infrastructures. From simple single-server designs to complex, secure, and scalable infrastructures, the content provides a deep dive into key concepts and techniques.
 
-The most important concepts so our experience typing www.google.com is seamless !
-> See my article on Medium > [Holberton School System Engineering & DevOps](https://github.com/Bomays/holbertonschool-system_engineering-devops/tree/main)
+The most important concepts so our experience typing www.google.com is seamless!
+> See my article on Medium > [Behind the Scenes of Web Infrastructure](https://medium.com/@9314/behind-the-scenes-of-web-infrastructure-64160847b5e5)
 
 
 # Web Infrastructure Design
@@ -14,7 +14,7 @@ You can see directly the web infrastucture design readme here >
 [Project detailed readme](web_infrastructure_design/README.md)
 
 Or only Flowcharts here > 
-[Flowcharts](web_infrastructure_design/Images tasks)
+[Flowcharts](https://github.com/Bomays/holbertonschool-system_engineering-devops/tree/d888a4eac8ffec645ac55f9f598b82d717bac666/web_infrastructure_design/Images%20tasks)
 
 
 ## Simple Web Stack
